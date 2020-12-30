@@ -1,1 +1,1 @@
-# dieinfo
+# information
